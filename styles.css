@@ -1,0 +1,32 @@
+body {
+  background-image: url(Fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header;{background-color:: 230, 9, 9, 0.9
+  border-radius:10px
+   box-shadow: 0 4px 8px 0 rgba: 0, 0, 0, 0.5
+margin: 20px
+h1: Color:: #f7f705
+font-family:: Franklin Gothic Medium;
+font-size:50px
+padding:20px
+align-items: center;
+}
+
+.menu {
+background-color:#f50808
+overflow:disguise;
+a:float horizontal-left;
+display:felx;
+Color:#ffffff 
+align-items: center;
+padding: 14px 16px
+}
+
+
+
+
+
+
+
